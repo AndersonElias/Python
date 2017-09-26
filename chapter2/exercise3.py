@@ -1,0 +1,6 @@
+print('Entre com a quantidade de horas')
+hours = float(input())
+print('Entre com o valor cobrado por hora')
+rate = float(input())
+pay = (hours * rate)
+print('Pay:', pay)
